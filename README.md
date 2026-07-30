@@ -39,11 +39,9 @@
   1. **SlaveCheck Foundation (Sydney, Australia)** – Performed a non-credentialed web application vulnerability assessment of SlaveCheck’s main service, evaluating certificate configurations and overall HTTP security posture.  
   2. **My1Health (Kenya)** – Conducted infrastructure vulnerability assessments of AWS-hosted cloud servers, identifying external security weaknesses.  
   3. **GRC Assessment and Security Policies (Courtroom5, North Carolina, USA)** – Evaluated the organisation’s cloud-based legal platform architecture, connectivity, and security practices. Assessed governance, risk, and compliance posture, and developed tailored security policy documentation.  
-  4. **Incident Response Planning (Courtroom5, North Carolina, USA)** 
-– Conducted incident response planning based on GRC findings and created runbook procedures to support operational resilience and guide technical response actions. 
+  4. **Incident Response Planning (Courtroom5, North Carolina, USA)** – Conducted incident response planning based on GRC findings and created runbook procedures to support operational resilience and guide technical response actions. 
 - Gained experience with writing an I incident triage report from network analysis view. 
-  5. **Incident Response Planning (Neutopia, Sydney, Australia)** 
-- Conducted incident response planning based on GRC findings and created runbook procedures to support operational resilience and guide technical response actions. 
+  5. **Incident Response Planning (Neutopia, Sydney, Australia)** - Conducted incident response planning based on GRC findings and created runbook procedures to support operational resilience and guide technical response actions. 
 - Gained experience with writing an I incident triage report from Host analysis view. 
 
 - **Logitrain IT Internship Certificate off Completion (2023)**  
