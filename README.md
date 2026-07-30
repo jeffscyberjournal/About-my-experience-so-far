@@ -41,6 +41,7 @@
   3. **GRC Assessment and Security Policies (Courtroom5, North Carolina, USA)** – Evaluated the organisation’s cloud-based legal platform architecture, connectivity, and security practices. Assessed governance, risk, and compliance posture, and developed tailored security policy documentation.  
   4. **Incident Response Planning (Courtroom5, North Carolina, USA)** – Conducted incident response planning based on GRC findings and created runbook procedures to support operational resilience and guide technical response actions. 
 - Gained experience with writing an I incident triage report from network analysis view. 
+
   5. **Incident Response Planning (Neutopia, Sydney, Australia)** - Conducted incident response planning based on GRC findings and created runbook procedures to support operational resilience and guide technical response actions. 
 - Gained experience with writing an I incident triage report from Host analysis view. 
 
