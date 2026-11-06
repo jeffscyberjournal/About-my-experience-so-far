@@ -11,10 +11,9 @@
 
 ## Areas of specialisation:
 ### Cybersecurity & Security Operations
-- Vulnerability assessments (web & infrastructure), GRC evaluations, incident response planning  
-- Hands-on experience with TryHackMe labs, homelab simulations, and 5 real-world remote projects for 4 organisations  
-- Tools: Tenable Nessus, OpenVAS, OWASP-ZAP, Nikto, Wazuh, Splunk, Zeek, Wireshark, 
-    Volatility, CyberChef, and more  
+- Vulnerability assessments (web & infrastructure), GRC evaluations, incident response planning.  
+- Hands-on experience with TryHackMe labs, homelab simulations, and 5 real-world remote projects for 4 organisations. 
+
 ### Systems & Network Administration
 - Windows (7–11, Server 2016–2019), Ubuntu Linux; Active Directory, Group Policy, user provisioning  
 - Network protocols: TCP/IP, DNS, DHCP, SMB, VLANs and more
